@@ -1,0 +1,8 @@
+*.txt
+*.dat
+*.mod
+*.exe
+*.pdf
+
+out*/
+plots*/
